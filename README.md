@@ -34,3 +34,4 @@ This project demonstrates:
 
 The SaveImage action accepts uploaded files, extracts filenames, creates directories, and persists images with error handling.
 
+>Looking for the full ASP.NET Core Rich Text Editor component overview, features, pricing, and documentation? Visit the [ASP.NET Core Rich Text Editor](https://www.syncfusion.com/aspnet-core-ui-controls/wysiwyg-rich-text-editor) page.
